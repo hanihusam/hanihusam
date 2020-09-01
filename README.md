@@ -7,6 +7,6 @@
 - 📫 Reach out to me directly through [Telegram](https://t.me/hani_husam).
 - 😄 Pronouns: he/him
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zainfathoni&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hanihusam&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainfathoni&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanihusam&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
