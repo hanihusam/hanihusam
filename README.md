@@ -1,7 +1,7 @@
 ### Hi there, I'm [Hani](https://hanihusam.com)! 👋
 
-- 🔭 I’m currently working at home as a fulltime freelancer (Web Developer and [UI Designer](https://dribbble.com/hanihusam))
-- 🌱 I’m currently learning [Next](https://nextjs.org) and [TypeScript](https://typescriptlang.org)
+- 🔭 I’m currently working at home as a fulltime freelancer (Frontend Developer and [UI Designer](https://dribbble.com/hanihusam))
+- 🌱 I’m currently learning [Next](https://nextjs.org) and [SWR](http://swr.vercel.app)
 - 👯 I’m looking to collaborate on any open source projects related to React and JavaScript
 - 💬 Ask me about anything related to React, JavaScript, and UI design.
 - 📫 Reach out to me directly through [Telegram](https://t.me/hani_husam).
