@@ -1,6 +1,7 @@
 ### Hi there, I'm [Hani](https://hanihusam.com)! 👋
 
 - 🔭 I’m currently working at home as a fulltime freelancer, speciality in Frontend Developer and [UI Designer](https://dribbble.com/hanihusam)
+- 🎮 In my spare time I'm @paralel_han in the Playstation world.
 - 🌱 I’m currently playing with [Remix](https://remix.run).
 - 👯 I’m looking to collaborate on any open source projects related to React.
 - 💬 Ask me about anything related to React, styling, and UI design.
