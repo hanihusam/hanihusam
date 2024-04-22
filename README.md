@@ -2,20 +2,20 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@bapak2developer-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bapak2developer)](https://twitter.com/bapak2developer) [![Linkedin Badge](https://img.shields.io/badge/-Han-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanihusam/) [![Mail Badge](https://img.shields.io/badge/-@bapak2dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/bapak2dev) [![Mail Badge](https://img.shields.io/badge/-Han-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hani.husam@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Han-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanihusam/) [![Mail Badge](https://img.shields.io/badge/-Han-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hani.husam@gmail.com)
 
 
-- 🔭 I’m currently working at home as a fulltime freelancer, speciality in Frontend Developer and [UI Designer](https://dribbble.com/hanihusam)
-- 🎮 I do love play with my Playstation in my spare time.
+- 🔭 I’m currently working at home as a full-time freelancer, specialty in Frontend development and [UI Design](https://dribbble.com/hanihusam)
+- 🎮 I love playing with my Playstation in my spare time.
 - 🌱 I’m currently playing with [Remix](https://remix.run).
-- 👯 I’m looking to collaborate on any open source projects related to React.
+- 👯 I’m looking to collaborate on any open-source projects related to React.
 - 💬 Ask me about anything related to React, styling, and UI design.
 - 📫 Reach out to me directly through [Telegram](https://t.me/hani_husam).
 - 😄 Pronouns: he/him
 
 #### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<!-- TODO: Make technologies links take you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
