@@ -10,7 +10,6 @@
 - 🌱 I’m currently playing with [Remix](https://remix.run).
 - 👯 I’m looking to collaborate on any open-source projects related to React.
 - 💬 Ask me about anything related to React, styling, and UI design.
-- 📫 Reach out to me directly through [Telegram](https://t.me/hani_husam).
 - 😄 Pronouns: he/him
 
 #### Top Technologies
