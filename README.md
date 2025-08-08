@@ -6,8 +6,6 @@
 
 
 - 🔭 I’m currently working at home as a full-time freelancer, specialty in Frontend development and [UI Design](https://dribbble.com/hanihusam)
-- 🎮 I love playing with my Playstation in my spare time.
-- 🌱 I’m currently playing with [Remix](https://remix.run).
 - 👯 I’m looking to collaborate on any open-source projects related to React.
 - 💬 Ask me about anything related to React, styling, and UI design.
 - 😄 Pronouns: he/him
