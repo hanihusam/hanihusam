@@ -23,5 +23,8 @@
 
 <br >
 
-#### Github Stats
+### Github Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hanihusam&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Github Performance
+[![GitHub Streak](https://streak-stats.demolab.com?user=hanihusam&theme=iceberg&border_radius=12)](https://git.io/streak-stats)
