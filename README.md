@@ -5,7 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Han-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanihusam/) [![Mail Badge](https://img.shields.io/badge/-Han-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hani.husam@gmail.com)
 
 
-- 🔭 I’m currently working at home as a full-time freelancer, specialty in Frontend development and [UI Design](https://dribbble.com/hanihusam)
+- 🔭 I’m currently working at home as a full-time freelancer, specialty in Frontend development and [UI Design](https://figma.com/@hanihusam)
+- 🚀 I'm a creative space voyager at [Coverse](https://coverse.gumroad.com)
 - 👯 I’m looking to collaborate on any open-source projects related to React.
 - 💬 Ask me about anything related to React, styling, and UI design.
 - 😄 Pronouns: he/him
